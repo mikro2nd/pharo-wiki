@@ -13,9 +13,9 @@
 
 ## Suggest new pages
 
-To suggest pages that could fit the wiki, the recommanded may is to open an issue containing a summary of the page, the section in which it should be (General, Internal projects of Pharo or External projects of Pharo) and optionaly links to already existing documentation on the projects.
+To suggest pages that could fit the wiki, the recommended way is to open an issue containing a summary of the page, the section in which it should be (General, Internal projects of Pharo or External projects of Pharo) and (optionally) links to already existing documentation on the projects.
 
-On the language and environment part of the wiki we accept to document a part of the system that is already documented outside the wiki at the condition that we reference in a *See also* section those documentation. The goal is to have a centralized information and to provide alternative ways of explaining.
+In the language and environment part of the wiki we accept documentation of parts of the system that are already documented outside the wiki, on condition that the original documentation is referenced in a *See also* section. The goal is to centralise information and to provide alternative explanations.
 
 If you wish to add the new entry yourself, see section [Add a new page](#add-a-new-page).
 
@@ -36,7 +36,7 @@ The entries structure is free but we still have some conventions.
 
 ## Edit a page
 
-If you see some typo, wrong informations or missing informations you can report it in the issues or you can also edit the document yourself and create a pull request.
+If you see some typo, wrong information or missing information, you can report it in the issues or you can edit the document yourself and create a pull request.
 
 Creating a PR is as easy as clicking on the Edit (pen) button, updating the document and propose the changes.
 
